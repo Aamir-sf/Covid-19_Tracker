@@ -3,13 +3,11 @@
 A new Flutter project.
 
 ## Getting Started
+<h1>Covid-19 Tracker App Made By Flutter</h1>
 
-This project is a starting point for a Flutter application.
+<h4> covid-19  Api used in this app to show actual data</h4>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
